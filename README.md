@@ -4,7 +4,7 @@
 ![](https://github.com/MrFMach/Esp32-MQTT-Ubidots-Sub-Led/blob/master/media/led13.gif)
 
 
-![](https://github.com/MrFMach/Esp32-MQTT-Ubidots-Sub-Led/blob/master/media/lide2.jpg)
+![](https://github.com/MrFMach/Esp32-MQTT-Ubidots-Sub-Led/blob/master/media/Slide2.jpg)
 Especificação da versão 3.1.1
 http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 
